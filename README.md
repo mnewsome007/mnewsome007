@@ -19,7 +19,7 @@
 
 - <b>Disaster Recovery</b>
   - [Backup and Restore](https://github.com/mnewsome007/Backup-and-Restore)
-  - [Pilot Light](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Pilot Light](https://github.com/mnewsome007/Pilot-Light)
   - [Warm Standby](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Hot Standby](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>

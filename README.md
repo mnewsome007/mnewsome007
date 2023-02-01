@@ -17,8 +17,11 @@
 
 <h2>👨‍💻 Amazon Web Services Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Disaster Recovery</b>
+  - [Backup and Restore](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Pilot Light](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Warm Standby](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hot Standby](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>

@@ -18,7 +18,7 @@
 <h2>👨‍💻 Amazon Web Services Projects:</h2>
 
 - <b>Disaster Recovery</b>
-  - [Backup and Restore](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Backup and Restore](https://github.com/mnewsome007/Backup-and-Restore)
   - [Pilot Light](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Warm Standby](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Hot Standby](https://github.com/joshmadakor1/Algorithms-Practice)

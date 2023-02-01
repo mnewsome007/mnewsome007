@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/joshmadakor1">AWS CLOUD DEVOPS ENGINEER </a>, <a href="www.linkedin.com/in/michael-newsome07">CLOUD ENGINEER/MECHANICAL ENGINEER</a>
+<h1>Hi, I'm Michael! <br/><a href="https://github.com/joshmadakor1">AWS DEVOPS/SOFTWARE DEVELOPMENT </a>, <a href="www.linkedin.com/in/michael-newsome07">CLOUD ENGINEER/MECHANICAL ENGINEER</a>
 
 <h2>🌱 Certifications:</h2>
   

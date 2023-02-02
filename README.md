@@ -23,7 +23,7 @@
   - [Warm Standby](In Process)
   - [Hot Standby](In Process)
 - <b>Foundational</b>
-  - [Static Website Hosting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Static Website Hosting](https://github.com/mnewsome007/Static-Website-Hosting)
   - [Serverless Sending Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Database and Containers](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Serverless Sending Application</b>

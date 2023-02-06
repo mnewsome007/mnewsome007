@@ -24,7 +24,7 @@
     - [Warm Standby](In Process)
     - [Hot Standby](In Process)
 - <b>Internet of Things (IoT)</b>
-    - [Monitor and Visualize Building Occupancy](https://github.com/mnewsome007/AWS-Cloud-Automation-Using-Terraform)
+    - [Monitor and Visualize Building Occupancy](https://github.com/mnewsome007/Monitor-and-Visualize-Building-Occupancy)
 - <b>Infrastrucure as Code (IaC)</b>
     - [AWS Cloud Automation Using Terraform](https://github.com/mnewsome007/AWS-Cloud-Automation-Using-Terraform)
 - <b>Foundational</b>

@@ -19,14 +19,16 @@
 <h2>👨‍💻 Amazon Web Services Projects:</h2>
 
 - <b>Disaster Recovery</b>
-  - [Backup and Restore](https://github.com/mnewsome007/Backup-and-Restore)
-  - [Pilot Light](https://github.com/mnewsome007/Pilot-Light)
-  - [Warm Standby](In Process)
-  - [Hot Standby](In Process)
+    - [Backup and Restore](https://github.com/mnewsome007/Backup-and-Restore)
+    - [Pilot Light](https://github.com/mnewsome007/Pilot-Light)
+    - [Warm Standby](In Process)
+    - [Hot Standby](In Process)
 - <b>Foundational</b>
-  - [Static Website Hosting](https://github.com/mnewsome007/Static-Website-Hosting)
-  - [Serverless Sending Application](https://github.com/mnewsome007/Serverless-Sending-Application)
-  - [Database and Containers](https://github.com/mnewsome007/Database-and-Containers)
+    - [Static Website Hosting](https://github.com/mnewsome007/Static-Website-Hosting)
+    - [Serverless Sending Application](https://github.com/mnewsome007/Serverless-Sending-Application)
+    - [Database and Containers](https://github.com/mnewsome007/Database-and-Containers)
+ - <b>Infrastrucure as Code</b>
+    - [AWS Cloud Automation Using Terraform](https://github.com/mnewsome007/Static-Website-Hosting)
 
   
 <h2>👨‍💻 Software Development Projects:</h2>

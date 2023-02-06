@@ -23,12 +23,15 @@
     - [Pilot Light](https://github.com/mnewsome007/Pilot-Light)
     - [Warm Standby](In Process)
     - [Hot Standby](In Process)
+- <b>Internet of Things (IoT)</b>
+    - [Monitor and visualise building occupancy with AWS IoT Core, Amazon QuickSight and Raspberry Pi](https://github.com/mnewsome007/AWS-Cloud-Automation-Using-Terraform)
+- <b>Infrastrucure as Code (IaC)</b>
+    - [AWS Cloud Automation Using Terraform](https://github.com/mnewsome007/AWS-Cloud-Automation-Using-Terraform)
 - <b>Foundational</b>
     - [Static Website Hosting](https://github.com/mnewsome007/Static-Website-Hosting)
     - [Serverless Sending Application](https://github.com/mnewsome007/Serverless-Sending-Application)
     - [Database and Containers](https://github.com/mnewsome007/Database-and-Containers)
- - <b>Infrastrucure as Code</b>
-    - [AWS Cloud Automation Using Terraform](https://github.com/mnewsome007/AWS-Cloud-Automation-Using-Terraform)
+
 
   
 <h2>👨‍💻 Software Development Projects:</h2>

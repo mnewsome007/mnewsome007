@@ -28,7 +28,7 @@
     - [Serverless Sending Application](https://github.com/mnewsome007/Serverless-Sending-Application)
     - [Database and Containers](https://github.com/mnewsome007/Database-and-Containers)
  - <b>Infrastrucure as Code</b>
-    - [AWS Cloud Automation Using Terraform](https://github.com/mnewsome007/Static-Website-Hosting)
+    - [AWS Cloud Automation Using Terraform](https://github.com/mnewsome007/AWS-Cloud-Automation-Using-Terraform)
 
   
 <h2>👨‍💻 Software Development Projects:</h2>
